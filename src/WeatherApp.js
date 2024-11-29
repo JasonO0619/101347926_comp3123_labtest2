@@ -22,7 +22,7 @@ const WeatherApp = () => {
 
       try {
         const response = await fetch(
-          `https://api.weatherapi.com/v1/search.json?key=${Api_Key}&q=${city}`
+          `https://api.weatherapi.com/v1/search.json?key=478178f555754051ba5212359242811`
         );
         if (!response.ok) throw new Error("Failed to fetch suggestions");
         const data = await response.json();
