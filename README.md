@@ -10,5 +10,4 @@
 
 This is my screen's output in the end:
 
-![Screenshot of screen]
-(<Screenshot 2024-11-28 192542.png>)
+![Screenshot of screen](./Screenshot%202024-11-28%20192542.png)
